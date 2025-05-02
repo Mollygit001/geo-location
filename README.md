@@ -2,7 +2,7 @@
 
 [![Laravel](https://img.shields.io/badge/Laravel-12.x-red?logo=laravel)](https://laravel.com/) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Made with ❤️](https://img.shields.io/badge/Made%20with-Laravel%20%26%20Bootstrap-f56565.svg)](#)
+[![Made with Laravel & TailwindCSS](https://img.shields.io/badge/Made%20with-Laravel%20%26%20TailwindCSS-f56565.svg)](#)
 
 A Laravel-based 🧭 geolocation management system that allows users to securely log in, add location entries, and visualize them on an interactive map. Ideal for mapping, tracking, or location-based data apps.
 
